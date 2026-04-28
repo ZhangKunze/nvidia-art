@@ -7,5 +7,5 @@
 （本程序只能在 Termux 里运行）
 
 
-（同时本程序提供了 “nvidia.sh” 可以用 "sh ~/nvidia.sh” 执行）
+（同时本程序提供了 “nvidia.sh” 可以用 "chmod +x ~/nvidia-art/nvidia.sh && sh ~/nvidia-art/nvidia.sh || echo "命令失败了"” 执行）
 
